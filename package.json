@@ -1,0 +1,10 @@
+{
+    "name": "@foo/eslint-plugin-foo",
+    "version": "0.0.1",
+    "license": "MIT",
+    "description": "foo rule",
+    "main": "lib/index.js",
+    "files": [
+        "lib"
+    ]
+}
